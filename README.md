@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Madhuvamsi
+# Gemstone Price Prediction - Madhuvamsigit
 
 ### Introduction About the Data :
 
